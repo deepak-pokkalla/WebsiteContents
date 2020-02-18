@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: "Hello, I’m Deepak."
-  subtitle: "Front-End Developer"
+  subtitle: "Computational Mechanics | Machine Learning"
   description: "I work at NUS under Dr. Poh. I am woking on IGA."
   image:
     x: "img/showcase/showcase.png"
