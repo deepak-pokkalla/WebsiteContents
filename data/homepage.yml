@@ -2,13 +2,13 @@
 showcase:
   enable: true
   title: "Hello, I’m Deepak."
-  subtitle: "Computational Mechanics | Machine Learning"
+  subtitle: "Computational Mechanics"
   description: "I work at NUS under Dr. Poh. I am woking on IGA."
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/Pic_2.JPG"
+    _2x: "img/showcase/Pic_2.JPG"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/Pic.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -25,14 +25,14 @@ showcase:
     - icon: "twitter"
       URL: "https://twitter.com/radity"
 
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+   # - icon: "dribbble"
+   #   URL: "https://dribbble.com/radity"
 
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+   # - icon: "behance"
+   #   URL: "https://www.behance.net/radity-digital"
 
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+   # - icon: "youtube"
+   #   URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/teamradity/"
