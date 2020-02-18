@@ -10,18 +10,19 @@ showcase:
   is on developing novel mechanical metamaterials with potential engineering applications 
   under the supervision of <a target='_blank' href='https://www.eng.nus.edu.sg/cee/staff/poh-leong-hien/'>A/Prof. Poh Leong Hien</a>
   and <a target='_blank' href='https://www.eng.nus.edu.sg/cee/staff/quek-ser-tong/'>Prof. Quek Ser Tong</a>.
-  Prior to joining NUS, I graduated with a bachelor's degree in Civil Engineering from Indian
-  Institute of Technology (BHU) Varanasi, India."
+  My research interests include Deep Learning and Optimization. Prior to joining NUS, I graduated with a bachelor's degree in Civil Engineering from 
+  <a target='_blank' href='https://www.iitbhu.ac.in/'>Indian
+  Institute of Technology (BHU) Varanasi, India</a>."
   image:
-    x: "img/showcase/Pic.JPG"
-    _2x: "img/showcase/Pic.JPG"
+    x: "img/showcase/Pic.jpeg"
+    _2x: "img/showcase/Pic.jpeg"
   imageMobile:
     x: "img/showcase/Pic.jpg"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
+    URL: "https://www.linkedin.com/in/deepak-pokkalla/"
 
   socialLinks:
     - icon: "linkedin"
@@ -62,22 +63,22 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    A scientific researcher and tech enthusiast with a knack for innovation, storytelling and fitness.
+    I am deeply passionate about enriching lives with Science and Technology. I enjoy reading science fiction,
+    biographies, and books on decision making, marketing and behavioural economics. 
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    Music and art are my favorite things. I cherish moments with family and enjoy spending time with 
+    friends - playing, sharing fun stories, and travelling. I am reliable and always ready to help others. 
+    I love to interact with people, learn and make a difference!
     </p>'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/company/radity/"
   image:
-    x: "img/who-am-i/FB_01.jpg"
-    _2x: "img/who-am-i/FB_01.jpg"
+    x: "img/who-am-i/Skydiving.JPG"
+    _2x: "img/who-am-i/Skydiving.JPG"
 
 # education
 education:
@@ -96,28 +97,32 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Deepak has a versatile work experience ranging from 
+  the structural engineering industry to research in mechanics to additive manufacturing technologies 
+  to machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects. 
+  His excellent academic track record, diverse work experience and honours (IIT (BHU) Varanasi Gold medal and 
+  CRS Iyengar Memorial Gold Medal) are a true testimony of his dedication and commitment towards his work."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/deepak-pokkalla/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Graduate Research Assistant"
+      company: "National University of Singapore"
+      duration: "Aug 2016 - Present"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Research Assistant"
+      company: "Ghent University, Belgium"
+      duration: "May 2016 - July 2016"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Vice President, Civil Engineering Society"
+      company: "IIT (BHU) Varanasi, India"
+      duration: "July 2015 - June 2016"
 
 # Client & Work
 client_and_work:
