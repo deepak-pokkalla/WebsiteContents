@@ -13,25 +13,28 @@ showcase:
   Prior to joining NUS, I graduated with a bachelor's degree in Civil Engineering from Indian
   Institute of Technology (BHU) Varanasi, India."
   image:
-    x: "img/showcase/Pic_2.JPG"
-    _2x: "img/showcase/Pic_2.JPG"
+    x: "img/showcase/Pic.JPG"
+    _2x: "img/showcase/Pic.JPG"
   imageMobile:
     x: "img/showcase/Pic.jpg"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/deepak-pokkalla/"
+
+  #  - icon: "medium"
+  #    URL: "https://medium.com/@deepakpokkalla"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/deepakpokkalla"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/deepakpokkalla"
 
    # - icon: "dribbble"
    #   URL: "https://dribbble.com/radity"
@@ -42,17 +45,17 @@ showcase:
    # - icon: "youtube"
    #   URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
-
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+      URL: "https://www.facebook.com/deepakkumarpokkalla"
+    
+    - icon: "instagram"
+      URL: "https://www.instagram.com/pokkalladeepak/?hl=en"
 
-    - icon: "codepen"
-      URL: "#"
+  #  - icon: "codepen"
+  #    URL: "#"
 
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+  #  - icon: "yelp"
+  #    URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -81,13 +84,13 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "National University of Singapore"
+      year: "2016-2020"
+      degree: "Doctor of Philosophy in Computational Mechanics"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "Indian Institute of Technology (BHU) Varanasi"
+      year: "2012-2016"
+      degree: "Bachelor of Technology, Civil Engineering"
 
 # experience
 experience:
@@ -119,7 +122,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: true
+  enable: false
 
   clients:
     - logo:
@@ -188,7 +191,7 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -223,20 +226,21 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+65 9716 0897"
+  # Make sure it sends the mail to your Gmail account. 
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "36 College Ave E, North Tower <br />Univeristy Town, Singapore 138600"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
