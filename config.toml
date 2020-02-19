@@ -30,15 +30,15 @@ theme = "raditian-free-hugo-theme"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+#  [[menu.header]]
+#  name = "Portfolio"
+#  URL = "#portfolio"
+#  weight = 3
 
   [[menu.header]]
   name = "Contact"
   URL = "#contact"
-  weight = 4
+  weight = 3
 
 
   [[menu.footer]]
@@ -62,8 +62,8 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Deepak"
+    text2 = "kumar"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."
