@@ -224,11 +224,6 @@ testimonial:
 contact:
   enable: true
   title: "Contact"
-  form:
-    action: "mailto:deepakpokkalla@gmail.com"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
   phone:
     title: "Phone Number"
     number: "+65 9716 0897"
@@ -239,9 +234,6 @@ contact:
   address:
     title: "Address"
     address: "36 College Ave E, North Tower <br />Univeristy Town, Singapore 138600"
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
 
 # newsletter
 newsletter:
