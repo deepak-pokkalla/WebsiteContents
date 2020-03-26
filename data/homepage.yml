@@ -222,7 +222,7 @@ testimonial:
 
 # contact
 contact:
-  enable: false
+  enable: true
   title: "Contact"
   form:
     action: "mailto:deepakpokkalla@gmail.com"
@@ -242,17 +242,6 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-
-# contact
-contact:
-  enable: true
-  title: "Contact"
-  email:
-    title: "Email"
-    email: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
-  address:
-    title: "Address"
-    address: "36 College Ave E, North Tower <br />Univeristy Town, Singapore 138600"
 
 # newsletter
 newsletter:
