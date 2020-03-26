@@ -243,18 +243,16 @@ contact:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
-# education
-education:
+# contact
+contact:
   enable: true
   title: "Contact"
-  items:
-    - university: "Email"
-      year: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
-      degree: "Doctor of Philosophy in Computational Mechanics"
-
-    - university: "Indian Institute of Technology (BHU) Varanasi"
-      year: "2012-2016"
-      degree: "Bachelor of Technology, Civil Engineering"
+  email:
+    title: "Email"
+    email: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "36 College Ave E, North Tower <br />Univeristy Town, Singapore 138600"
 
 # newsletter
 newsletter:
