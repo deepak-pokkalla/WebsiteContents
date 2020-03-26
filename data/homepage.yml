@@ -224,6 +224,29 @@ testimonial:
 contact:
   enable: true
   title: "Contact"
+  form:
+    action: "mailto:deepakpokkalla@gmail.com"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+65 9716 0897"
+  # Make sure it sends the mail to your Gmail account.
+  email:
+    title: "Email"
+    email: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "36 College Ave E, North Tower <br />Univeristy Town, Singapore 138600"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
   phone:
     title: "Phone Number"
     number: "+65 9716 0897"
