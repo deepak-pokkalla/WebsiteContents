@@ -3,14 +3,14 @@ showcase:
   enable: true
   title: "Hello, I’m Deepak."
  # subtitle: "Scientific Researcher"
-  description: "I am a final-year Ph.D. candidate at the
+  description: "I am a final-year Ph.D. candidate in Computational Mechanics at the National University of Singapore
   <a target='_blank' href='http://www.nus.edu.sg/'>National University of Singapore</a>.
-  I specialize in developing finite element methods, implementing optimization algorithms, 
-  numerical analyses of multiphysics problems and additve manufacturing. My current research 
-  is on developing novel mechanical metamaterials with potential engineering applications 
-  under the supervision of <a target='_blank' href='https://www.eng.nus.edu.sg/cee/staff/poh-leong-hien/'>A/Prof. Poh Leong Hien</a>
-  and <a target='_blank' href='https://www.eng.nus.edu.sg/cee/staff/quek-ser-tong/'>Prof. Quek Ser Tong</a>.
-  My research interests include Deep Learning and Optimization. Prior to joining NUS, I graduated with a bachelor's degree in Civil Engineering from 
+  I specialize in finite element methods, optimization algorithms, and additive manufacturing.
+  My current research is on the development of novel materials with
+  tunable exceptional properties using numerical analyses and experimental methods.
+  My research interests include Deep Learning and Optimization.
+  Prior to joining NUS, I graduated with a bachelor's degree (Gold Medals) in Civil Engineering
+  from the
   <a target='_blank' href='https://www.iitbhu.ac.in/'>Indian
   Institute of Technology (BHU) Varanasi, India</a>."
   image:
@@ -49,7 +49,7 @@ showcase:
 
     - icon: "facebook"
       URL: "https://www.facebook.com/deepakkumarpokkalla"
-    
+
     - icon: "instagram"
       URL: "https://www.instagram.com/pokkalladeepak/?hl=en"
 
@@ -64,13 +64,13 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    A scientific researcher and tech enthusiast with a knack for innovation, storytelling and fitness.
+    A scientific researcher and tech enthusiast with a knack for innovation, storytelling, and fitness.
     I am deeply passionate about enriching lives with Science and Technology. I enjoy reading science fiction,
-    biographies, and books on decision making, marketing and behavioural economics. 
+    biographies, and books on decision making, marketing, and behavioral economics.
     </p>
     <p class="lead">
-    Music and art are my favorite things. I cherish moments with family and enjoy spending time with 
-    friends - playing, sharing fun stories, and travelling. I am reliable and always ready to help others. 
+    Music and art are my favorite things. I cherish moments with family and enjoy spending time with
+    friends - playing, sharing fun stories, and traveling. I am reliable and always ready to help others.
     I love to interact with people, learn and make a difference!
     </p>'
   button:
@@ -98,10 +98,10 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Deepak has a versatile work experience ranging from 
-  the structural engineering industry to research in mechanics to additive manufacturing technologies 
-  to machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects. 
-  His excellent academic track record, diverse work experience and honours (IIT (BHU) Varanasi Gold medal and 
+  description: "Deepak has a versatile work experience ranging from
+  the structural engineering industry to research in mechanics to additive manufacturing technologies
+  to machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects.
+  His excellent academic track record, diverse work experience and awards (IIT (BHU) Varanasi Gold medal and
   CRS Iyengar Memorial Gold Medal) are a true testimony of his dedication and commitment towards his work."
   button:
     icon: "icon-profile-fill"
@@ -233,7 +233,7 @@ contact:
   phone:
     title: "Phone Number"
     number: "+65 9716 0897"
-  # Make sure it sends the mail to your Gmail account. 
+  # Make sure it sends the mail to your Gmail account.
   email:
     title: "Email"
     email: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
