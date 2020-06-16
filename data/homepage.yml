@@ -3,15 +3,15 @@ showcase:
   enable: true
   title: "Hello, I’m Deepak."
  # subtitle: "Scientific Researcher"
-  description: "I am a final-year Ph.D. candidate in Computational Mechanics at the
+  description: "I am a graduating Ph.D. candidate in Applied Mechanics at the
   <a target='_blank' href='http://www.nus.edu.sg/'>National University of Singapore</a>.
-  I specialize in finite element methods, optimization algorithms, and additive manufacturing.
-  My current research is on the development of novel materials with
-  tunable exceptional properties using numerical analyses and experimental methods.
-  My research interests include Deep Learning and Optimization.
-  Prior to joining NUS, I graduated with a bachelor's degree (Gold Medalist) in Civil Engineering
-  from the
-  <a target='_blank' href='https://www.iitbhu.ac.in/'>Indian
+  I specialize in isogeometric finite element analysis, homogenization,
+  optimization algorithms, and additive manufacturing, and machine learning.
+  During my doctoral studies, I developed an isogeometric shape optimization framework for the design of
+  metamaterials and performed experiments for potential bio-integrated devices. Recently,
+  I was awarded 1st place in the EMI-MIMB 2020 Student Paper Competition. Before joining NUS,
+  I graduated with a bachelor's degree (Gold Medals) in Civil Engineering
+  from the <a target='_blank' href='https://www.iitbhu.ac.in/'>Indian
   Institute of Technology (BHU) Varanasi, India</a>."
   image:
     x: "img/showcase/Pic.jpeg"
@@ -100,12 +100,12 @@ experience:
   title: "Experience"
   description: "Deepak has a versatile work experience ranging from
   the structural engineering industry to research in mechanics and machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects.
-  His excellent academic track record, diverse work experience and awards (IIT (BHU) Varanasi Gold medal and
-  CRS Iyengar Memorial Gold Medal) are a true testimony of his dedication and commitment towards his work."
+  His excellent academic track record, diverse work experience and awards (IIT (BHU) Varanasi Gold medal,
+  CRS Iyengar Memorial Gold Medal, and EMI-MIMB 2020 Best Paper Award) are a true testimony of his dedication and commitment towards his work."
   button:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/1NKH4Ux5pnCoKo9_sv63sdSBbQbOGCHFI/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/1fgb6L3fVgiO3DfQWsaXdtQwOTISLmwMM/view?usp=sharing"
 #  button2:
 #    icon: "icon-profile-fill"
 #    btnText: "Download My Resume"
