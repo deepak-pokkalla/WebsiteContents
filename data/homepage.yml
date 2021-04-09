@@ -100,7 +100,7 @@ experience:
   enable: true
   title: "Experience"
   description: "Deepak has a versatile work experience ranging from
-  the structural engineering industry to research in mechanics & materials and machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects.
+  the structural engineering & FEA industry to research in mechanics & materials and machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects.
   His excellent academic track record, diverse work experience and awards (IIT (BHU) Varanasi Gold medal,
   CRS Iyengar Memorial Gold Medal, and EMI-MIMB 2020 Best Paper Award) are a true testimony of his dedication and commitment towards his work."
   button:
@@ -114,13 +114,13 @@ experience:
 
   items:
 
-    - title: "Graduate Research Assistant"
-      company: "National University of Singapore"
-      duration: "Aug 2016 - Dec 2020"
-
     - title: "Stress Engineering Intern"
       company: "Ghent University, Belgium"
       duration: "May 2016 - July 2016"
+
+    - title: "Stress Analyst Intern"
+      company: "National University of Singapore"
+      duration: "July 2015 - Aug 2015"
 
     - title: "Fluid-Structure Interaction Analysis Intern"
       company: "Bhagwati Designs Pvt Ltd. (Ahmedabad, India)"
