@@ -9,10 +9,9 @@ showcase:
   <a target='_blank' href='https://www.mcgill.ca/mecheng/'>McGill University</a>.
   My research interests include isogeometric finite element methods, structural design optimization,
   mechanical metamaterials, additive manufacturing, and machine learning.
-  During my doctoral research at
+  During my Ph.D. at
   <a target='_blank' href='https://www.nus.edu.sg/'>National University of Singapore (NUS)</a>, I developed a novel isogeometric
-  shape optimization framework for the design of auxetic materials and performed experimental validation on additively manufactured specimens.
-  For this research work, I received <a target='_blank' href='https://www.asce.org/engineering-mechanics/news/20200604-modeling-inelasticity-and-multiscale-behavior-student-paper-competition/'>ASCE Best Student Paper Award at EMI Conference 2020</a>.
+  shape optimization framework which was recognized with <a target='_blank' href='https://www.asce.org/engineering-mechanics/news/20200604-modeling-inelasticity-and-multiscale-behavior-student-paper-competition/'>ASCE Best Student Paper Award at EMI Conference 2020</a>.
   Before joining NUS, I graduated with a bachelor's degree (Gold Medals) in Civil Engineering
   from the <a target='_blank' href='https://www.iitbhu.ac.in/'>Indian
   Institute of Technology (BHU) Varanasi, India</a>."
@@ -50,11 +49,11 @@ showcase:
    # - icon: "youtube"
    #   URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
-    - icon: "facebook"
-      URL: "https://www.facebook.com/deepakkumarpokkalla"
+   # - icon: "facebook"
+   #   URL: "https://www.facebook.com/deepakkumarpokkalla"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com/pokkalladeepak/?hl=en"
+   # - icon: "instagram"
+   #   URL: "https://www.instagram.com/pokkalladeepak/?hl=en"
 
   #  - icon: "codepen"
   #    URL: "#"
@@ -79,7 +78,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.facebook.com/deepakkumarpokkalla"
+    URL: "https://www.linkedin.com/in/deepak-pokkalla/"
   image:
     x: "img/who-am-i/Skydiving.JPG"
     _2x: "img/who-am-i/Skydiving.JPG"
@@ -102,13 +101,14 @@ experience:
   enable: true
   title: "Experience"
   description: "Deepak has a versatile work experience ranging from
-  the structural engineering & FEA industry to research in mechanics & materials and machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects.
+  the structural engineering & FEA industry to research in mechanics & materials, structural optimization and machine learning. Deepak is a quick learner with zeal and motivation to work on challenging projects.
   His excellent academic track record, diverse work experience and awards (IIT (BHU) Varanasi Gold medal,
   CRS Iyengar Memorial Gold Medal, and EMI-MIMB 2020 Best Paper Award) are a true testimony of his dedication and commitment towards his work."
   button:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://drive.google.com/file/d/17SxQHFB1Y-RL9KDrvcGkdv-X73FEQrwL/view?usp=sharing"
+    URL: "https://www.linkedin.com/in/deepak-pokkalla/"
+    #URL: "https://drive.google.com/file/d/17SxQHFB1Y-RL9KDrvcGkdv-X73FEQrwL/view?usp=sharing"
 #  button2:
 #    icon: "icon-profile-fill"
 #    btnText: "Download My Resume"
@@ -116,17 +116,21 @@ experience:
 
   items:
 
+    - title: "Postdoctoral Researcher"
+      company: "McGill University, Canada"
+      duration: "Nov 2020 - Nov 2021"
+
     - title: "Stress Engineering Intern"
       company: "Ghent University, Belgium"
       duration: "May 2016 - July 2016"
 
     - title: "Stress Analyst Intern"
-      company: "National University of Singapore"
+      company: "National University of Singapore, Singapore"
       duration: "July 2015 - Aug 2015"
 
-    - title: "Fluid-Structure Interaction Analysis Intern"
-      company: "Bhagwati Designs Pvt Ltd. (Ahmedabad, India)"
-      duration: "May 2015 - June 2015"
+    #- title: "Fluid-Structure Interaction Analysis Intern"
+    #  company: "Bhagwati Designs Pvt Ltd. (Ahmedabad, India)"
+    #  duration: "May 2015 - June 2015"
 
     - title: "Structural Analysis and Design intern"
       company: "Larsen & Toubro - Chiyoda Ltd. (Mumbai, India)"

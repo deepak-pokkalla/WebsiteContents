@@ -63,7 +63,7 @@ theme = "raditian-free-hugo-theme"
 
   [params.logo]
     text1 = "Deepak"
-    text2 = "kumar"
+    text2 = "pokkalla"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."
