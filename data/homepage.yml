@@ -240,14 +240,14 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+1 (514) 691-0220"
+    number: "+1 XXX XXX XXXX"
   # Make sure it sends the mail to your Gmail account.
   email:
     title: "Email"
     email: '<a href="mailto:deepakpokkalla@gmail.com">deepakpokkalla@gmail.com</a>'
   address:
     title: "Address"
-    address: "Montreal, Canada"
+    address: "United States"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
